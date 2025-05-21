@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Maison de campagne",
+      "address": "456 Chemin des Fleurs",
+      "price": 250,
+      "views": 13,
+      "available": false
+    },
+    {
+      "title": "Appartement en ville",
+      "address": "123 Rue de la Ville",
+      "price": 550,
+      "available": false,
+      "views": 4,
+      "id": "2"
+    }
+  ]
+}
